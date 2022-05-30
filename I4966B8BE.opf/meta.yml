@@ -1,0 +1,26 @@
+id: I4966B8BE
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:34:54.098787'
+last_modified: '2022-05-30T18:34:54.098793'
+parser: null
+source_metadata:
+  title: Dampa Rinpoche Ngawang Lodrö Nyingpo
+  language: bo
+  description: 'Texts by and about Dampa Rinpoche Ngawang Lodrö Nyingpo (dam pa rin
+    po che ngag dbang blo gros snying po, 1876–1953), the sixty-fifth abbot of Ngor:'
+  volume:
+    fCA11:
+      title: 'The Moonlight of Auspiciousness: Prayer for the Swift Return of the
+        Supreme Tulku'
+      base_file: fCA11.txt
+      order: 1
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
